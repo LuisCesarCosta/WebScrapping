@@ -1,5 +1,5 @@
 WebScrapping
-Teste de um conversor de feed para json
+Teste de um conversor de feed para json (Based on the project http://www.vogella.com/tutorials/RSSFeed/article.html)
 
 Getting Started
 These is a Java Project.
@@ -16,6 +16,7 @@ Jackson -
 Log4J - 
 Apache Commons - 
 Org Json - 
+
 
 Contributing
 Please read CONTRIBUTING.md for details on our code of conduct, and the process for submitting pull requests to us.
